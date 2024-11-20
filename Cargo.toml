@@ -1,0 +1,10 @@
+[package]
+name = "linear_regression_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15.6"
+linfa = "0.7.0"
+linfa-linear = "0.7.0"
+argmin = "0.10.0"
